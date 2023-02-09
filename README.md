@@ -1,3 +1,9 @@
+Project Submission:
+## Elastic Beanstalk Endpoint
+http://imagefilter-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2023/2/9/4585b12f-eba5-44c9-a3a2-dc269ba7e6b7.jpg
+
+
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
@@ -46,3 +52,5 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
